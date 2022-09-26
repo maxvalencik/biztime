@@ -1,5 +1,5 @@
 /** Server startup for BizTime. */
-
+//Start Server
 
 const app = require("./app");
 
